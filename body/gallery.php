@@ -13,48 +13,48 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="gallery-item" data-aos="fade-up">
-              <a href="img/gallery/1.jpg" class="gallery-popup">
-                <img src="img/gallery/1.jpg" alt="">
+              <a href="lib/img/gallery/1.jpg" class="gallery-popup">
+                <img src="lib/img/gallery/1.jpg" alt="">
               </a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="gallery-item" data-aos="fade-up">
-              <a href="img/gallery/2.jpg" class="gallery-popup">
-                <img src="img/gallery/2.jpg" alt="">
+              <a href="lib/img/gallery/2.jpg" class="gallery-popup">
+                <img src="lib/img/gallery/2.jpg" alt="">
               </a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="gallery-item" data-aos="fade-up">
-              <a href="img/gallery/3.jpg" class="gallery-popup">
-                <img src="img/gallery/3.jpg" alt="">
+              <a href="lib/img/gallery/3.jpg" class="gallery-popup">
+                <img src="lib/img/gallery/3.jpg" alt="">
               </a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="gallery-item" data-aos="fade-up">
-              <a href="img/gallery/4.jpg" class="gallery-popup">
-                <img src="img/gallery/4.jpg" alt="">
+              <a href="lib/img/gallery/4.jpg" class="gallery-popup">
+                <img src="lib/img/gallery/4.jpg" alt="">
               </a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="gallery-item" data-aos="fade-up">
-              <a href="img/gallery/5.jpg" class="gallery-popup">
-                <img src="img/gallery/5.jpg" alt="">
+              <a href="lib/img/gallery/5.jpg" class="gallery-popup">
+                <img src="lib/img/gallery/5.jpg" alt="">
               </a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6">
             <div class="gallery-item" data-aos="fade-up">
-              <a href="img/gallery/6.jpg" class="gallery-popup">
-                <img src="img/gallery/6.jpg" alt="">
+              <a href="lib/img/gallery/6.jpg" class="gallery-popup">
+                <img src="lib/img/gallery/6.jpg" alt="">
               </a>
             </div>
           </div>

@@ -7,60 +7,60 @@
         <div class="section-header">
           <h3 class="section-title">Preguntas Frecuentes</h3>
           <span class="section-divider"></span>
-          <p class="section-description">Son las preguntas mas frecuentes, si tiee alguna pregunta en especifico nu dude en <a href="#contact">Contactarnos</a></p>
+          <p class="section-description">Son las preguntas mas frecuentes, si tiee alguna pregunta en especifico no dude en <a href="#contact">Contactarnos</a></p>
         </div>
 
         <ul id="faq-list" data-aos="fade-up">
           <li>
-            <a data-toggle="collapse" class="collapsed" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="ion-android-remove"></i></a>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">¿Cuánto tarda la implementación de su sistema? <i class="ion-android-remove"></i></a>
             <div id="faq1" class="collapse" data-parent="#faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                La implementación del sistema de nuestra parte no tarda más de 24 horas después de contratados, sin embargo hay que tomar en cuenta la capacitación de los usuarios, detalles técnicos a resolver, detalles de inventario y otras eventualidades que en total pudiera demorar hasta dos semanas para llegar a la perfección. 
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="ion-android-remove"></i></a>
+            <a data-toggle="collapse" href="#faq2" class="collapsed">¿Hasta cuantos productos puedo tener en mi negocio? <i class="ion-android-remove"></i></a>
             <div id="faq2" class="collapse" data-parent="#faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                La cantidad de productos es ilimitado, solo debemos tomar en cuenta la organización para poder ubicarlos de la mejor manera en la pantalla.
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="ion-android-remove"></i></a>
+            <a data-toggle="collapse" href="#faq3" class="collapsed">¿Cómo hago cuando un pedido tiene cambios de guarniciones? <i class="ion-android-remove"></i></a>
             <div id="faq3" class="collapse" data-parent="#faq-list">
               <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                Los cambios de guarniciones ya están contemplados, además de esto puede agregarle más opciones al mismo producto, por ejemplo. Una hamburguesa puede o no agregarle cebolla, o agregarle opciones extra y estas se mostraran en la pantalla de la cocina.
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="ion-android-remove"></i></a>
+            <a data-toggle="collapse" href="#faq4" class="collapsed">¿Cómo funciona lo de las pantalla en el sistema? <i class="ion-android-remove"></i></a>
             <div id="faq4" class="collapse" data-parent="#faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                Cuando usted marca un producto en el sistema la comanda en tiempo real aparece en la pantalla de la cocina, usted elige que productos deben aparecer en la pantalla, al salir el producto Ud. puede eliminar el producto de la pantalla.
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="ion-android-remove"></i></a>
+            <a data-toggle="collapse" href="#faq5" class="collapsed">¿Qué pasa si mi conexión a internet no es permanente en mi negocio? <i class="ion-android-remove"></i></a>
             <div id="faq5" class="collapse" data-parent="#faq-list">
               <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                No se preocupe por la pérdida de datos, en la versión de escritorio Ud. puede instalar nuestro sistema en su PC y todos sus datos se sincronizaran cuando haya una conexión estable.
               </p>
             </div>
           </li>
 
           <li>
-            <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="ion-android-remove"></i></a>
+            <a data-toggle="collapse" href="#faq6" class="collapsed">¿Puedo tener impresoras de ticket en el sistema? <i class="ion-android-remove"></i></a>
             <div id="faq6" class="collapse" data-parent="#faq-list">
               <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+                Claro, puede tener ya sea impresoras térmicas o matriciales para facturas con un diseño adecuado a su negocio.
               </p>
             </div>
           </li>

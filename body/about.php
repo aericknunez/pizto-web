@@ -13,7 +13,7 @@
 
         <div class="row">
           <div class="col-lg-6 about-img" data-aos="fade-right">
-            <img src="img/about-img.jpg" alt="">
+            <img src="lib/img/about-img.jpg" alt="">
           </div>
 
           <div class="col-lg-6 content" data-aos="fade-left">

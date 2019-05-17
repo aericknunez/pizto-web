@@ -7,7 +7,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <img class="advanced-feature-img-right" src="img/advanced-feature-1.jpg" alt="" data-aos="fade-left">
+              <img class="advanced-feature-img-right" src="lib/img/advanced-feature-1.jpg" alt="" data-aos="fade-left">
               <div data-aos="fade-right">
                 <h2>Cargado con características que seguramente amarías.</h2>
                 <h3>Nos preocupamos por siempre tener un exelente servicio por eso estamos en constante comunicaci&oacuten con nuestros clientes</h3>
@@ -23,7 +23,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <img class="advanced-feature-img-left" src="img/advanced-feature-2.jpg" alt="">
+              <img class="advanced-feature-img-left" src="lib/img/advanced-feature-2.jpg" alt="">
               <div data-aos="fade-left">
                 <h2>Olvidese de tantos papeles y llevar cuentas de forma dif&iacutecil</h2>
                 <i class="ion-ios-paper-outline" data-aos="fade-left"></i>
@@ -42,7 +42,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <img class="advanced-feature-img-right" src="img/advanced-feature-3.jpg" alt="" data-aos="fade-left">
+              <img class="advanced-feature-img-right" src="lib/img/advanced-feature-3.jpg" alt="" data-aos="fade-left">
               <div data-aos="fade-right">
                 <h2>No olvide controlar su inventario</h2>
                 <h3>En el negocio de restaurante o comida tener un inventario ordenado es un dolor de cabeza, nosotros lo hacemos f&aacutecil..</h3>

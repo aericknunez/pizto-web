@@ -14,7 +14,7 @@
           </div>
 
           <div class="col-lg-4 col-md-5 features-img">
-            <img src="img/product-features.png" alt="" data-aos="fade-right" data-aos-easing="ease-out-back">
+            <img src="lib/img/product-features.png" alt="" data-aos="fade-right" data-aos-easing="ease-out-back">
           </div>
 
           <div class="col-lg-8 col-md-7 ">
