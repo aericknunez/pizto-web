@@ -5,7 +5,7 @@
 
     <div class="intro-text">
       <h2>Un increible Software para tu negocio.</h2>
-      <p>Diseñado para la gestión de su restaurante, bar, cafetería o comida rápida, fácil de usar, sin instalación.</p>
+      <p>Diseñado para la gestión de su restaurante, bar, cafetería o comida rápida, fácil de usar.</p>
       <a href="#about" class="btn-get-started scrollto">Pru&eacutebelo Ahora</a>
     </div>
 

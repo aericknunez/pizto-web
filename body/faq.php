@@ -7,7 +7,7 @@
         <div class="section-header">
           <h3 class="section-title">Preguntas Frecuentes</h3>
           <span class="section-divider"></span>
-          <p class="section-description">Son las preguntas mas frecuentes, si tiee alguna pregunta en especifico no dude en <a href="#contact">Contactarnos</a></p>
+          <p class="section-description">Son las preguntas mas frecuentes, si tiene alguna pregunta en especifico no dude en <a href="#contact">contactarnos</a></p>
         </div>
 
         <ul id="faq-list" data-aos="fade-up">
@@ -65,6 +65,14 @@
             </div>
           </li>
 
+          <li>
+            <a data-toggle="collapse" href="#faq7" class="collapsed">¿Puedo usar mi tablet o mi telefono para hacer ventas? <i class="ion-android-remove"></i></a>
+            <div id="faq7" class="collapse" data-parent="#faq-list">
+              <p>
+                Claro, nuestro sistema es compatible con cualquier dispositivo y puede gestionar todas las funciones desde ellos.
+              </p>
+            </div>
+          </li>
         </ul>
 
       </div>
