@@ -20,7 +20,7 @@ include_once 'body/call.php';
 
 include_once 'body/more.php';
  
-include_once 'body/clients.php';
+// include_once 'body/clients.php';
  
 include_once 'body/pricing.php';
  
