@@ -1,6 +1,3 @@
-    <!--==========================
-      Call To Action Section
-    ============================-->
     <section id="call-to-action">
       <div class="container">
         <div class="row">
