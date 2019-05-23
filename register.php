@@ -106,7 +106,7 @@ body { overflow-x: hidden; padding-left: 5px; padding-right: 5px; }</style>
           <div class="col-md-6 mb-5 mt-md-0 mt-5 white-text text-center text-md-left">
             <h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Registrese Ahora! </h1>
             <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
-            <h6 class="mb-3 wow fadeInLeft" data-wow-delay="0.3s">Para poder disfrutar de nuestro demo On Line s&oacutelo debe registrase, puede obtener una demostraci&oacuten con datos previamente instalados pra que pueda ver su funcionamiento, o una versi&oacuten limpia para iniciar con datos y productos de su negocio.</h6>
+            <h6 class="mb-3 wow fadeInLeft" data-wow-delay="0.3s">Para poder disfrutar de nuestro demo On Line s&oacutelo debe registrase, puede obtener una demostraci&oacuten con datos previamente instalados para que pueda ver su funcionamiento, o una versi&oacuten limpia para iniciar con datos y productos de su negocio.</h6>
             Tienes una cuenta?
             <a href="./demo/" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Iniciar Sesi&oacuten</a>
           </div>
