@@ -27,10 +27,4 @@
   <!-- Main Stylesheet File -->
   <link href="lib/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-    Theme Name: Avilon
-    Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
 </head>
