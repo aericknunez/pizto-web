@@ -33,6 +33,11 @@ $idtd = $clase->GetUltimoTd() + 1;
 $_SESSION['secret_key'] = md5($idtd);
 $expira = Fechas::DiaSuma(date("d-m-Y"),30);
 
+if($_SESSION["tiposistemanew"] == NULL){ // selecciono vatiable tipo sistema
+	$tsis = 3;
+} else {
+	$tsis = $_SESSION["tiposistemanew"];
+}
 
 	if($clase->ProcesaPass($_POST["pass"], $_POST["pass2"], $username, $_POST["email"]) == TRUE){ // se inserto el registro
 		     	
@@ -40,7 +45,7 @@ $expira = Fechas::DiaSuma(date("d-m-Y"),30);
 		     	$datosr = array();
 			    $datosr["expira"] = Encrypt::Encrypt($expira,$_SESSION['secret_key']);
 			    $datosr["expiracion"] = Encrypt::Encrypt(Fechas::Format($expira),$_SESSION['secret_key']);
-			    $datosr["tipo_sistema"] = Encrypt::Encrypt(3,$_SESSION['secret_key']);
+			    $datosr["tipo_sistema"] = Encrypt::Encrypt($tsis,$_SESSION['secret_key']);
 			    $datosr["plataforma"] = Encrypt::Encrypt(1,$_SESSION['secret_key']);
 			    $datosr["pantallas"] = Encrypt::Encrypt(1,$_SESSION['secret_key']);
 			    $datosr["td"] = $idtd;
@@ -70,6 +75,7 @@ $expira = Fechas::DiaSuma(date("d-m-Y"),30);
 			    $datos["avatar"] = "11.png";
 			    $datos["td"] = $idtd;
 				    if ($db->insert("login_userdata", $datos)) {
+				    	unset($_SESSION["tiposistemanew"]); // elimino la variable tipo sistema
 				        echo '<script>
 							window.location.href="./demo/?iniciar"
 						</script>';

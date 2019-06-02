@@ -1,7 +1,10 @@
 <?php 
 session_start();
 
-$_SESSION["step"] = 1;
+if(isset($_REQUEST["type"])){
+  $_SESSION["tiposistemanew"] = $_REQUEST["type"];
+}
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -105,11 +108,47 @@ body { overflow-x: hidden; padding-left: 5px; padding-right: 5px; }</style>
           <!--Grid column-->
           <div class="col-md-6 mb-5 mt-md-0 mt-5 white-text text-center text-md-left">
             <h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">Registrese Ahora! </h1>
+            <?php if($_REQUEST["type"] == NULL){
+            ?>
             <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
             <h6 class="mb-3 wow fadeInLeft" data-wow-delay="0.3s">Para poder disfrutar de nuestro demo On Line s&oacutelo debe registrase, puede obtener una demostraci&oacuten con datos previamente instalados para que pueda ver su funcionamiento, o una versi&oacuten limpia para iniciar con datos y productos de su negocio.</h6>
             Tienes una cuenta?
             <a href="./demo/" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Iniciar Sesi&oacuten</a>
+          
+            <?php }
+             if($_REQUEST["type"] == 1){
+            ?>    
+            <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
+            <h3>Sistema B&aacutesico</h3>
+            <h6 class="mb-3 wow fadeInLeft" data-wow-delay="0.3s">El sistema seleccionado es excelente para negocios pequeños aunque es muy potente al momento de llevar el control de gastos, ventas, inventarios y todo lo necesario para el crecimiento de su negocio.
+            </h6> Cambiar:
+            <a href="./register?type=2" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Profesional</a>
+            <a href="./register?type=3" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Premium</a>
+         
+         <? } if($_REQUEST["type"] == 2){
+            ?>    
+            <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
+            <h3>Sistema Profesional</h3>
+            <h6 class="mb-3 wow fadeInLeft" data-wow-delay="0.3s">Este es un sistema que puede manejar gran afluencia de clientes, ideal para un restaurante con una cantidad considerable de clientes. Y gran variedad de platillos.
+            </h6> Cambiar:
+            <a href="./register?type=1" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Básico</a>
+            <a href="./register?type=3" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Premium</a>
+         
+         <? } if($_REQUEST["type"] == 3){
+            ?>    
+            <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
+            <h3>Sistema Premium</h3>
+            <h6 class="mb-3 wow fadeInLeft" data-wow-delay="0.3s">Con esta versión puede manejar todo su restaurante, no importa lo grande y complejo que este sea, esta será una herramienta que le ayudara a crecer en su negocio
+            </h6> Cambiar:
+            <a href="./register?type=1" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Básico</a>
+            <a href="./register?type=2" class="btn btn-outline-white wow fadeInLeft" data-wow-delay="0.3s">Profesional</a>
+         <? } ?>
+
+
           </div>
+
+
+
           <!--Grid column-->
           <!--Grid column-->
           <div class="col-md-6 col-xl-5 mb-4">

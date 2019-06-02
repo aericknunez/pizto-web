@@ -20,7 +20,7 @@
                 <li><i class="ion-android-checkmark-circle"></i> 0 Pantallas</li>
                 <li><i class="ion-android-checkmark-circle"></i> Estadisticas Ilimitado</li>
               </ul>
-              <a href="#" class="get-started-btn">Adquirirlo</a>
+              <a href="register?type=1" class="get-started-btn">Adquirirlo</a>
             </div>
           </div>
 
@@ -35,7 +35,7 @@
                 <li><i class="ion-android-checkmark-circle"></i> 1 Pantallas</li>
                 <li><i class="ion-android-checkmark-circle"></i> Estadisticas Ilimitado</li>
               </ul>
-              <a href="#" class="get-started-btn">Adquirirlo</a>
+              <a href="register?type=2" class="get-started-btn">Adquirirlo</a>
             </div>
           </div>
 
@@ -50,7 +50,7 @@
                 <li><i class="ion-android-checkmark-circle"></i> Ilimitado Pantallas</li>
                 <li><i class="ion-android-checkmark-circle"></i> Estadisticas Ilimitado</li>
               </ul>
-              <a href="#" class="get-started-btn">Adquirirlo</a>
+              <a href="register?type=2" class="get-started-btn">Adquirirlo</a>
             </div>
           </div>
 
