@@ -1,10 +1,6 @@
 <?php 
-include_once 'Alerts.php';
-
-
+include_once '../demo/application/common/Alerts.php';
 $alert = new Alerts();
-//$alert->Alerta("error","Error!","Faltan Datos!");
-//$alert->ResetAll();
 
 
 // validando todos los campos
@@ -65,7 +61,9 @@ $headers .= "From: ". $_POST["nombre"] ." <". $_POST["email"] .">\r\n";
 
 	if(mail($destinatario,$asunto,$cuerpo,$headers)){
 		$alert->Alerta("success","Exito!","Mensaje Enviado Correctamente!");
-		$alert->ResetAll();
+		echo '<script>
+        $("#form-contacto").trigger("reset"); 
+        </script>';
 	} else {
 		$alert->Alerta("error","Error!","El mensaje no se ha podido enviar!");
 	}

@@ -10,10 +10,10 @@ session_start();
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Siempre es un placer saber de usted</title>
 
-    <link rel="stylesheet" href="admin/assets/css/font-awesome.css">
-    <link href="admin/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="admin/assets/css/mdb.min.css" rel="stylesheet">
-    <link href="admin/assets/css/galeria.css" rel="stylesheet">
+    <link rel="stylesheet" href="demo/assets/css/font-awesome.css">
+    <link href="demo/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="demo/assets/css/mdb.min.css" rel="stylesheet">
+    <link href="demo/assets/css/galeria.css" rel="stylesheet">
 
     <style>body { overflow-x: hidden; padding-left: 15px; }</style>
 
@@ -200,13 +200,13 @@ El Salvador</p>
 </main>  
 
 
-    <script type="text/javascript" src="admin/assets/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="demo/assets/js/jquery-3.3.1.min.js"></script>
 
-    <script type="text/javascript" src="admin/assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="demo/assets/js/popper.min.js"></script>
 
-    <script type="text/javascript" src="admin/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="demo/assets/js/bootstrap.min.js"></script>
 
-    <script type="text/javascript" src="admin/assets/js/mdb.min.js"></script>
+    <script type="text/javascript" src="demo/assets/js/mdb.min.js"></script>
     <script>
         // SideNav Initialization
         $(".button-collapse").sideNav();

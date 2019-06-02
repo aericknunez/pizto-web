@@ -1,6 +1,3 @@
-    <!--==========================
-      Pricing Section
-    ============================-->
     <section id="pricing" class="section-bg">
       <div class="container">
 
@@ -15,7 +12,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="fade-right">
               <h3>B&aacutesico</h3>
-              <h4><sup>$</sup>9.95<span> month</span></h4>
+              <h4><sup>$</sup>9.95<span> mes</span></h4>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i> 500 MB Almacenamiento</li>
                 <li><i class="ion-android-checkmark-circle"></i> 3 Usuarios</li>
@@ -30,7 +27,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="box featured" data-aos="fade-up">
               <h3>Profesional</h3>
-              <h4><sup>$</sup>24.95<span> month</span></h4>
+              <h4><sup>$</sup>24.95<span> mes</span></h4>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i> 1 GB Almacenamiento</li>
                 <li><i class="ion-android-checkmark-circle"></i> 5 Usuarios</li>
@@ -45,7 +42,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="fade-left">
               <h3>Premium</h3>
-              <h4><sup>$</sup>34.95<span> month</span></h4>
+              <h4><sup>$</sup>34.95<span> mes</span></h4>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i> Ilimitado Almacenamiento</li>
                 <li><i class="ion-android-checkmark-circle"></i> Ilimitado Usuarios</li>
