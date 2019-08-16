@@ -69,7 +69,7 @@ if($_SESSION["tiposistemanew"] == NULL){ // selecciono vatiable tipo sistema
 		     	// inserta datos en user data
 		     	$datos = array();
 			    $datos["nombre"] = $_POST["nombre"];
-			    $datos["tipo"] = 2;
+			    $datos["tipo"] = 5;
 			    $datos["user"] = sha1($username);
 			    $datos["tkn"] = 1;
 			    $datos["avatar"] = "11.png";
