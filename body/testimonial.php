@@ -4,8 +4,8 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="section-heading text-center">
-                            <h2 class="bl-text wow fadeInUp" data-wow-delay="0.3s">Loved By Our Clients</h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo. </p>
+                            <h2 class="bl-text wow fadeInUp" data-wow-delay="0.3s">Nuestros clientes nos prefieren</h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">La satisfacción con nuestros clientes está garantizada gracias a que siempre nos preocupamos por que sus problemas e inquietudes sean resueltos. </p>
                         </div>
                     </div>
                 </div>
@@ -19,18 +19,18 @@
                             <div class="single-testimonial text-center">
                                 <!-- Testimonial Image -->
                                 <div class="testimonial_image">
-                                    <img src="img/test-img/1.jpg" alt="">
+                                    <img src="img/test-img/3.jpg" alt="">
                                 </div>
                                 <!-- Testimonial Feedback Text -->
                                 <div class="testimonial-description">
                                     <div class="testimonial_text">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis magni, quisquam, accusantium dolores atque, doloribus odit minus maiores sunt mollitia consequatur, soluta quasi.</p>
+                                        <p>Desde el primer momento que lo comenzamos usar supe que era el sistema indicado, el que estaba buscando</p>
                                     </div>
 
                                     <!-- Admin Text -->
                                     <div class="admin_text">
-                                        <h5>Sunny Khan</h5>
-                                        <p>Head of Design, Designing World</p>
+                                        <h5>Karen Lopez</h5>
+                                        <p>Propietaria Variedades Rivera</p>
                                     </div>
                                 </div>
                             </div>
@@ -44,13 +44,13 @@
                                 <!-- Testimonial Feedback Text  -->
                                 <div class="testimonial-description">
                                     <div class="testimonial_text">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error nostrum adipisci porro quisquam. Rem, earum, tenetur? Architecto et, earum repudiandae.</p>
+                                        <p>Anteriormente había tenido tres sistemas diferentes y siempre tenía problemas que eran muy limitados y nunca podía tener lo que deseaba.</p>
                                     </div>
 
                                     <!-- Admin Text -->
                                     <div class="admin_text">
-                                        <h5>Ajoy Das</h5>
-                                        <p>Head of Idea, Designing World</p>
+                                        <h5>Carlos Estrada</h5>
+                                        <p>Propietario Ferreteria Luz</p>
                                     </div>
                                 </div>
                             </div>
@@ -59,17 +59,17 @@
                             <div class="single-testimonial text-center">
                                 <!-- Testimonial Image -->
                                 <div class="testimonial_image">
-                                    <img src="img/test-img/3.jpg" alt="">
+                                    <img src="img/test-img/1.jpg" alt="">
                                 </div>
                                 <!-- Testimonial Feedback Text  -->
                                 <div class="testimonial-description">
                                     <div class="testimonial_text">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et delectus, nam repudiandae repellat id placeat molestias consequuntur, laudantium dolorem nesciunt sit.</p>
+                                        <p>En mi restaurante todos me dicen que se ven bien elegantes los meseros tomando las ordenes desde su Tablet. Nos vemos más exclusivos.</p>
                                     </div>
                                     <!-- Admin Text -->
                                     <div class="admin_text">
-                                        <h5>Jebin Khan</h5>
-                                        <p>Head of Marketing, Designing World</p>
+                                        <h5>Milton Calderon</h5>
+                                        <p>Gerente Restaurante Jaguar Blanco</p>
                                     </div>
                                 </div>
                             </div>

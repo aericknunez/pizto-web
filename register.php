@@ -58,13 +58,13 @@ header,
     background: #3f51b5 !important;
   }
 }
-
+/*
 .rgba-gradient {
   background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
   background: -webkit-gradient(linear, 45deg, from(rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%)));
   background: linear-gradient(to 45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
 }
-
+*/
 .card {
   background-color: rgba(126, 123, 215, 0.2);
 }
@@ -98,7 +98,7 @@ body { overflow-x: hidden; padding-left: 5px; padding-right: 5px; }</style>
   </nav>
   <!-- Navbar -->
   <!-- Full Page Intro -->
-  <div class="view" style="background-image: url('lib/img/261272_1.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+  <div class="view" style="background-image: url('admin/assets/img/Photos/backgroundDefault.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
     <!-- Mask & flexbox options-->
     <div class="mask rgba-gradient d-flex justify-content-center align-items-center">
       <!-- Content -->

@@ -20,7 +20,7 @@
 <meta property="og:url" content="https://pizto.com/" />
 <meta property="og:site_name" content="pizto.com" />
 <meta property="og:description" content="Sistema para restaurante, El mejor sistema de punto de venta para, restaurante, cafeteria, bar, comida rapida, ferreteria, supermercado, farmacia, boutique, zapateria, agroservicio, tiendas de conveniencia y muchos mas..." />
-<meta itemprop="image" content="https://pizto.com/lib/img/pizto.png" />
+<meta itemprop="image" content="https://pizto.com/img/pizto.png" />
 
 
 
@@ -34,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-    <link rel="icon" href="img/core-img/favicon.ico">
+    <link rel="icon" href="img/favicon.ico">
 
 
     <link rel="stylesheet" href="css/style.css">

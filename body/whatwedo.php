@@ -1,16 +1,16 @@
   <!-- Start what we do section -->
-    <section class="what-we-do features section-padding-100-70 hex-pat-1" id="services">
+    <section class="what-we-do features section-padding-100-70 hex-pat-1 wow fadeInUp" id="services" data-wow-delay="0.4s">
       <div class="container">
          <div class="section-heading text-center">
             <h2 class=" bl-text limited">Las mejores soluciones para cada necesidad </h2>
-            <p class=" fadeInUp" >Hemos desarrollado diferentes sistemas para cada una de las necesidades de nuestros clientes, cubrimos todo tipo de negocios, adaptados a la micro, pequeña y mediana empresa.</p>
+            <p class="wow fadeInUp" >Hemos desarrollado diferentes sistemas para cada una de las necesidades de nuestros clientes, cubrimos todo tipo de negocios, adaptados a la micro, pequeña y mediana empresa.</p>
         </div>
         <div class="clearfix"></div>
 
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-4">
                     <!-- Content -->
-                    <div class="service_single_content text-center mb-100 fadeInUp" data-wow-delay="0.2s">
+                    <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Icon -->
                         <div class="service_icon max">
                             <img src="img/services/s1.png" alt="">
@@ -21,7 +21,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <!-- Content -->
-                    <div class="service_single_content text-center mb-100 fadeInUp" data-wow-delay="0.3s">
+                    <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.6s">
                         <!-- Icon -->
                         <div class="service_icon max">
                             <img src="img/services/s2.png" alt="">
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <!-- Content -->
-                    <div class="service_single_content text-center mb-100 fadeInUp" data-wow-delay="0.4s">
+                    <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Icon -->
                         <div class="service_icon max">
                             <img src="img/services/s3.png" alt="">
@@ -43,7 +43,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <!-- Content -->
-                    <div class="service_single_content text-center mb-100 fadeInUp" data-wow-delay="0.2s">
+                    <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Icon -->
                         <div class="service_icon max">
                             <img src="img/services/s4.png" alt="">
@@ -54,7 +54,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <!-- Content -->
-                    <div class="service_single_content text-center mb-100 fadeInUp" data-wow-delay="0.3s">
+                    <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.6s">
                         <!-- Icon -->
                         <div class="service_icon max">
                             <img src="img/services/s5.png" alt="">
@@ -65,7 +65,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <!-- Content -->
-                    <div class="service_single_content text-center mb-100 fadeInUp" data-wow-delay="0.4s">
+                    <div class="service_single_content text-center mb-100 wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Icon -->
                         <div class="service_icon max">
                             <img src="img/services/s6.png" alt="">

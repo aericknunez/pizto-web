@@ -6,14 +6,14 @@
     </div>
 
     <!-- ##### Header Area Start ##### -->
-    <header class="header-area fadeInDown" data-wow-delay="0.2s">
+    <header class="header-area wow fadeInDown" data-wow-delay="0.4s">
         <div class="classy-nav-container light breakpoint-off">
             <div class="container">
                 <!-- Classy Menu -->
                 <nav class="classy-navbar light justify-content-between" id="dreamNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand light" href="#"><img src="img/core-img/logo.png" alt="logo"> RoboZone </a>
+                    <a class="nav-brand light" href="#home"><img src="img/pizto-sm-blue.png" alt="logo"> </a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler demo">
@@ -31,18 +31,18 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li><a href="#home">Home</a></li>
-                                <li><a href="#services">Services</a></li>
-                                <li><a href="#about">About</a></li>
-                                <li><a href="#features">Features</a></li>
-                                <li><a href="#faq">FAQ</a></li>
-                                <li><a href="#pricing">Pricing</a></li>
-                                <li><a href="#test">Testimonials</a></li>
-                                <li><a href="#contact">Contact</a></li>
+                                <!-- <li><a href="#home">Inicio</a></li> -->
+                                <li><a href="#services">Servicios</a></li>
+                                <li><a href="#about">Nosotros</a></li>
+                                <li><a href="#features">Caracteristicas</a></li>
+                                <li><a href="#faq">Preguntas</a></li>
+                                <li><a href="#pricing">Precios</a></li>
+                                <li><a href="#test">Testimonios</a></li>
+                                <li><a href="#contact">Contacto</a></li>
                             </ul>
 
                             <!-- Button -->
-                            <a href="#" class="btn login-btn ml-50">Log in</a>
+                            <a href="admin/" class="btn login-btn ml-50">Iniciar</a>
                         </div>
                         <!-- Nav End -->
                     </div>

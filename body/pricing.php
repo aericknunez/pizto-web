@@ -4,16 +4,16 @@
         <div class="container">
             <div class="section-heading text-center">
                 <!-- Dream Dots -->
-                <div class="dream-dots justify-content-center fadeInUp" data-wow-delay="0.2s">
+                <div class="dream-dots justify-content-center wow fadeInUp" data-wow-delay="0.4s">
                     <img src="img/svg/section-icon-2.svg" alt="">
                 </div>
-                <h2 class="d-blue bold fadeInUp" data-wow-delay="0.3s">Planes de pago para todos.</h2>
+                <h2 class="d-blue bold wow fadeInUp" data-wow-delay="0.6s">Planes de pago para todos.</h2>
                 <p class="fadeInUp" data-wow-delay="0.4s">Nuestros planes de pago son adaptables a tu negocio, queremos servirle de la mejor manera, Nuestros planes son mensuales, pero si desea hacer un solo pago solicitelo.</p>
             </div>
             <div class="row no-gutters">
                 <!-- Single Table -->
                 <div class="col-lg-4 col-md-6">
-                    <div class="single_price_table_content text-center wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="single_price_table_content text-center wow fadeInUp" data-wow-delay="0.4s">
                         <div class="price_table_text">
                             <h5>Básico</h5>
                             <h1>$20.00</h1>
@@ -29,7 +29,7 @@
                 </div>
                 <!-- Single Table -->
                 <div class="col-lg-4 col-md-6">
-                    <div class="single_price_table_content active text-center wow fadeIn" data-wow-delay="0.3s">
+                    <div class="single_price_table_content active text-center wow fadeIn" data-wow-delay="0.6s">
                         <div class="price_table_text">
                             <h5>Profesional</h5>
                             <h1>$25.00</h1>

@@ -8,7 +8,7 @@
                         <div class="row align-items-center">
                             <div class="col-12 col-lg-9">
                                 <div class= "text-left">
-                                    <h3 class="g-text fadeInUp" data-wow-delay="0.3s">¿Quiere una demostración?</h3>
+                                    <h3 class="g-text wow fadeInUp" data-wow-delay="0.3s">¿Quiere una demostración?</h3>
                                     <p class="w-text mb-0">Para obtener una demostración sin compromiso, solo póngase en contacto con nosotros con mucho gusto le brindamos asesoría y le otorgamos un demo.</p>
                                 </div>
                             </div>
@@ -28,14 +28,14 @@
                         <div class="col-12 col-lg-6 col-md-6">
                             <div class="footer-copywrite-info">
                                 <!-- Copywrite -->
-                                <div class="copywrite_text fadeInUp" data-wow-delay="0.2s">
+                                <div class="copywrite_text wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="footer-logo">
-                                        <a href="#"><img src="img/core-img/logo.png" alt="logo"> RoboZone </a>
+                                        <a href="#"><img src="img/pizto-sm-blue.png" alt="logo"> </a>
                                     </div>
                                     <p>Si desea contratar nuestros servicios, tiene una duda o simplemente quiere saber mas acerca de nosotros, no dude en escribirnos, es un placer conocer de usted.</p>
                                 </div>
                                 <!-- Social Icon -->
-                                <div class="footer-social-info fadeInUp" data-wow-delay="0.4s">
+                                <div class="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
@@ -77,7 +77,7 @@
                         <div class="col-12 col-lg-6 col-md-6 ">
                             <div class="contact_info_area d-sm-flex justify-content-between">
                                 <!-- Content Info -->
-                                <div class="contact_info mt-s text-center fadeInUp" data-wow-delay="0.4s">
+                                <div class="contact_info mt-s text-center wow fadeInUp" data-wow-delay="0.4s">
                                     <h5>CONTACTENOS</h5>
                                     <p>Urb La Mascota Cl 2 No 231 Col San Benito.</p>
                                     <p>San Salvador El Salvador</p>
