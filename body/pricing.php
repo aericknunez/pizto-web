@@ -1,59 +1,66 @@
-    <section id="pricing" class="section-bg">
-      <div class="container">
-
-        <div class="section-header">
-          <h3 class="section-title">Planes de pago para todos.</h3>
-          <span class="section-divider"></span>
-          <p class="section-description">Nuestros planes de pago son adaptables a tu negocio, queremos servirle de la mejor manera, Pizto cuenta con características que amarás por un bajo precio y te servirán para controlar por completo tu sala de ventas.</p>
+ <!-- ##### pricing Area start ##### -->
+    <section class="pricing section-padding-100-70" style="background: #edf6fd" id="pricing">
+    	
+        <div class="container">
+            <div class="section-heading text-center">
+                <!-- Dream Dots -->
+                <div class="dream-dots justify-content-center fadeInUp" data-wow-delay="0.2s">
+                    <img src="img/svg/section-icon-2.svg" alt="">
+                </div>
+                <h2 class="d-blue bold fadeInUp" data-wow-delay="0.3s">Planes de pago para todos.</h2>
+                <p class="fadeInUp" data-wow-delay="0.4s">Nuestros planes de pago son adaptables a tu negocio, queremos servirle de la mejor manera, Nuestros planes son mensuales, pero si desea hacer un solo pago solicitelo.</p>
+            </div>
+            <div class="row no-gutters">
+                <!-- Single Table -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_price_table_content text-center wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="price_table_text">
+                            <h5>Básico</h5>
+                            <h1>$20.00</h1>
+                            <p>Por mes</p>
+                        </div>
+                        <div class="table_text_details">
+                            <p>Ideal para pequeños negocios donde el fijo de clientes no es excesivo, como cafeterías o pequeñas tiendas</p>
+                        </div>
+                        <div class="table_btn mt-50">
+                            <a href="register?type=1" class="btn dream-btn">Adquirirlo</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Table -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_price_table_content active text-center wow fadeIn" data-wow-delay="0.3s">
+                        <div class="price_table_text">
+                            <h5>Profesional</h5>
+                            <h1>$25.00</h1>
+                            <p>Por mes</p>
+                        </div>
+                        <div class="table_text_details">
+                            <p>Indicado para negocios que manejas gran cantidad de datos y clientes, donde la atención rápida y oportuna son importantes</p>
+                        </div>
+                        <div class="table_btn mt-50">
+                            <a href="register?type=2" class="btn dream-btn">Adquirirlo</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Table -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_price_table_content text-center wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="price_table_text">
+                            <h5>Premium</h5>
+                            <h1>$35.00</h1>
+                            <p>Por mes</p>
+                        </div>
+                        <div class="table_text_details">
+                            <p>Diseñado para negocios grandes que manejan grandes cantidades de datos, y requiere que el sistema este interconectado en diferentes dispositivos</p>
+                        </div>
+                        <div class="table_btn mt-50">
+                            <a href="register?type=3" class="btn dream-btn">Adquirirlo</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="fade-right">
-              <h3>B&aacutesico</h3>
-              <h4><sup>$</sup>9.95<span> mes</span></h4>
-              <ul>
-                <li><i class="ion-android-checkmark-circle"></i> 500 MB Almacenamiento</li>
-                <li><i class="ion-android-checkmark-circle"></i> 3 Usuarios</li>
-                <li><i class="ion-android-checkmark-circle"></i> 1 Tipo de venta</li>
-                <li><i class="ion-android-checkmark-circle"></i> 0 Pantallas</li>
-                <li><i class="ion-android-checkmark-circle"></i> Estadisticas Ilimitado</li>
-              </ul>
-              <a href="register?type=1" class="get-started-btn">Adquirirlo</a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box featured" data-aos="fade-up">
-              <h3>Profesional</h3>
-              <h4><sup>$</sup>24.95<span> mes</span></h4>
-              <ul>
-                <li><i class="ion-android-checkmark-circle"></i> 1 GB Almacenamiento</li>
-                <li><i class="ion-android-checkmark-circle"></i> 5 Usuarios</li>
-                <li><i class="ion-android-checkmark-circle"></i> 2 Tipo de venta</li>
-                <li><i class="ion-android-checkmark-circle"></i> 1 Pantallas</li>
-                <li><i class="ion-android-checkmark-circle"></i> Estadisticas Ilimitado</li>
-              </ul>
-              <a href="register?type=2" class="get-started-btn">Adquirirlo</a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="fade-left">
-              <h3>Premium</h3>
-              <h4><sup>$</sup>34.95<span> mes</span></h4>
-              <ul>
-                <li><i class="ion-android-checkmark-circle"></i> Ilimitado Almacenamiento</li>
-                <li><i class="ion-android-checkmark-circle"></i> Ilimitado Usuarios</li>
-                <li><i class="ion-android-checkmark-circle"></i> 2 Tipo de venta</li>
-                <li><i class="ion-android-checkmark-circle"></i> Ilimitado Pantallas</li>
-                <li><i class="ion-android-checkmark-circle"></i> Estadisticas Ilimitado</li>
-              </ul>
-              <a href="register?type=2" class="get-started-btn">Adquirirlo</a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section><!-- #pricing -->
+        
+    </section>
+    <!-- ##### pricing Area End ##### -->

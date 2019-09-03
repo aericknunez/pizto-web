@@ -1,20 +1,20 @@
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    <!-- ########## All JS ########## -->
+    <!-- jQuery js -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Popper js -->
+    <script src="js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="js/plugins.js"></script>
+    <!-- Parallax js -->
+    <script src="js/dzsparallaxer.js"></script>
 
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/aos/aos.js"></script>
-  <script src="lib/superfish/hoverIntent.js"></script>
-  <script src="lib/superfish/superfish.min.js"></script>
-  <script src="lib/magnific-popup/magnific-popup.min.js"></script>
+    <script src="js/jquery.syotimer.min.js"></script>
 
-  <!-- Contact Form JavaScript File -->
-  <script src="lib/contactform/contactform.js"></script>
-
-  <!-- Template Main Javascript File -->
-  <script src="lib/js/main.js"></script>
+    <!-- script js -->
+    <script src="js/script.js"></script>
 
 </body>
+
 </html>

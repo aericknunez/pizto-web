@@ -1,8 +1,8 @@
-<?php 
+﻿<?php 
 
 include_once 'body/head.php';
 
-echo '<body>';
+echo '<body class="light-version">';
 ?>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ7G9WW"
@@ -11,36 +11,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <?
 include_once 'body/header.php';
 
-include_once 'body/intro.php';
+include_once 'body/start.php';
 
-echo '  <main id="main">';
+include_once 'body/whatwedo.php';
 
-include_once 'body/about.php';
+include_once 'body/aboutus.php';
 
-include_once 'body/features.php';
+include_once 'body/questions.php';
 
-include_once 'body/advanced.php';
-
-include_once 'body/call.php';
-
-include_once 'body/more.php';
- 
-// include_once 'body/clients.php';
- 
 include_once 'body/pricing.php';
- 
-include_once 'body/faq.php';
 
-// include_once 'body/team.php';
- 
-include_once 'body/gallery.php';
- 
-include_once 'body/contact.php';
- 
-echo '</main>';
+echo '<div class="footer-bg">';
+
+include_once 'body/testimonial.php';
 
 include_once 'body/footer.php';
- 
+
+echo '</div>';
+
 include_once 'body/script.php';
  
- ?>

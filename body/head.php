@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="ES">
+
+
   <meta charset="utf-8">
   <title>Pizto - Un increible Software para tu negocio.</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -10,15 +11,15 @@
 <meta name="google-site-verification" content="WnSwWginjO6BzVZZlqM2lBVwwy1wKFSlMHfUlD7oiI4" />
 
 
-<meta name="description"  content="El mejor sistema de punto de venta para, restaurante, cafeteria, bar, comida rapida" />
-<meta name="keywords"  content="Sistema para restaurante, El mejor sistema de punto de venta para restaurante, restaurante, cafeteria, bar, comida rapida, Software para restaurante, Software para cafeteria, Software para bar" />
+<meta name="description"  content="El mejor sistema de punto de venta para, restaurante, cafeteria, bar, comida rapida, ferreteria, supermercado, farmacia, boutique, zapateria, agroservicio, tiendas de conveniencia y muchos mas..." />
+<meta name="keywords"  content="Sistema para restaurante, El mejor sistema de punto de venta para restaurante, restaurante, cafeteria, bar, comida rapida, Software para restaurante, Software para cafeteria, Software para bar, Software para ferreteria, Software para supermercado, Software para farmacia, Software para boutique, Software para zapateria, Software para agroservicio, Software para tiendas de conveniencia y muchos mas..." />
 <link rel="canonical" href="https://pizto.com/" />
-<meta property="og:title" content="Pizto - Sistema de ventas para restaurante" />
-<meta property="og:title" content="Pizto - Software de ventas para restaurante" />
+<meta property="og:title" content="Pizto - Sistema de ventas para su negocio" />
+<meta property="og:title" content="Pizto - Software de ventas para su negocio" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://pizto.com/" />
 <meta property="og:site_name" content="pizto.com" />
-<meta property="og:description" content="Sistema para restaurante, El mejor sistema de punto de venta para, restaurante, cafeteria, bar, comida rapida" />
+<meta property="og:description" content="Sistema para restaurante, El mejor sistema de punto de venta para, restaurante, cafeteria, bar, comida rapida, ferreteria, supermercado, farmacia, boutique, zapateria, agroservicio, tiendas de conveniencia y muchos mas..." />
 <meta itemprop="image" content="https://pizto.com/lib/img/pizto.png" />
 
 
@@ -32,24 +33,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
-  <!-- Favicons -->
-  <link href="lib/img/favicon.png" rel="icon">
-  <link href="lib/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700|Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
-
-  <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Libraries CSS Files -->
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="lib/aos/aos.css" rel="stylesheet">
-  <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+    <link rel="icon" href="img/core-img/favicon.ico">
 
 
-  <!-- Main Stylesheet File -->
-  <link href="lib/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="css/responsive.css">
 
 </head>
