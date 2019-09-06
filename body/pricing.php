@@ -20,7 +20,7 @@
                             <p>Por mes</p>
                         </div>
                         <div class="table_text_details">
-                            <p>Ideal para pequeños negocios donde el fijo de clientes no es excesivo, como cafeterías o pequeñas tiendas</p>
+                            <p>Ideal para pequeños negocios donde el flujo de clientes no es excesivo, como cafeterías o pequeñas tiendas</p>
                         </div>
                         <div class="table_btn mt-50">
                             <a href="register?type=1" class="btn dream-btn">Adquirirlo</a>

@@ -12,7 +12,7 @@
                 <div class="col-12 col-lg-5 offset-lg-0 col-md-10 offset-md-1">
                     <div class="who-we-contant mt-s">
                         
-                        <h4 class="bl-text wow fadeInUp" data-wow-delay="0.3s">Una fácil para obtener potentes resultados de automatización.</h4>
+                        <h4 class="bl-text wow fadeInUp" data-wow-delay="0.3s">Una fácil herramienta para obtener potentes resultados de automatización.</h4>
                         <p class="wow fadeInUp" data-wow-delay="0.4s">Hemos desarrollado infraestructuras muy fáciles de usar y se adaptan exclusivamente a su negocio, sin complicaciones ni retrasos.</p>
                         <p class="wow fadeInUp" data-wow-delay="0.5s">Las potentes herramientas con las que contará le ayudaran a controlar todo lo relacionado con su negocio, a través de historiales de ventas, clientes, gastos y todo lo que desee consultar.</p>
                         <!-- <a class="btn dream-btn green-btn mt-30 fadeInUp" data-wow-delay="0.6s" href="#">Read More</a> -->

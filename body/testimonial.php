@@ -68,8 +68,8 @@
                                     </div>
                                     <!-- Admin Text -->
                                     <div class="admin_text">
-                                        <h5>Milton Calderon</h5>
-                                        <p>Gerente Restaurante Jaguar Blanco</p>
+                                        <h5>Antonio Castro</h5>
+                                        <p>Gerente Restaurante El Buen Gusto</p>
                                     </div>
                                 </div>
                             </div>
