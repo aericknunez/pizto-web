@@ -82,7 +82,7 @@
                                     <p>Urb La Mascota Cl 2 No 231 Col San Benito.</p>
                                     <p>San Salvador El Salvador</p>
                                     <p>info@pizto.com</p>
-                                    <p>WhatsApp: +503 7671 0797</p>
+                                    <p>WhatsApp: +503 7016 9035</p>
                                 </div>
                             </div>
                         </div>
