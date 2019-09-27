@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>UpS! En este momento no estamos diponibles</title>
+  <title>Ups! En este momento no estamos diponibles</title>
     <link rel="stylesheet" href="demo/assets/css/font-awesome.css">
     <link href="demo/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="demo/assets/css/mdb.min.css" rel="stylesheet">
@@ -121,7 +121,7 @@
   <!-- Time Counter -->
   <script type="text/javascript">
     // Set the date we're counting down to
-    var countDownDate = new Date("06-02-2019");
+    var countDownDate = new Date("06-10-2019");
     countDownDate.setDate(countDownDate.getDate() + 3);
 
     // Update the count down every 1 second

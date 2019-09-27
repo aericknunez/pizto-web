@@ -35,7 +35,7 @@
 
 
 
-        <div class="parttns">
+<!--         <div class="parttns">
         <div class="container wow fadeInUp">
             <div class="row">
                 <div class="col-lg-2 col-md-4 col-sm-4 col-xs-6">
@@ -58,6 +58,6 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     
