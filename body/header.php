@@ -32,17 +32,17 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <!-- <li><a href="#home">Inicio</a></li> -->
-                                <li><a href="#services">Servicios</a></li>
-                                <li><a href="#about">Nosotros</a></li>
-                                <li><a href="#features">Caracteristicas</a></li>
-                                <li><a href="#faq">Preguntas</a></li>
-                                <li><a href="#pricing">Precios</a></li>
-                                <li><a href="#test">Testimonios</a></li>
-                                <li><a href="#contact">Contacto</a></li>
+                                <li><a href="./#services">Servicios</a></li>
+                                <li><a href="./#about">Nosotros</a></li>
+                                <li><a href="./#features">Caracteristicas</a></li>
+                                <li><a href="./#faq">Preguntas</a></li>
+                                <li><a href="./#pricing">Precios</a></li>
+                                <li><a href="./#test">Testimonios</a></li>
+                                <li><a href="./#contact">Contacto</a></li>
                             </ul>
 
                             <!-- Button -->
-                            <a href="admin/" class="btn login-btn ml-50">Iniciar</a>
+                            <a href="admin/" class="btn login-btn ml-20">Iniciar</a>
                         </div>
                         <!-- Nav End -->
                     </div>

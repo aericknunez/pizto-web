@@ -16,14 +16,14 @@
                     <div class="single_price_table_content text-center wow fadeInUp" data-wow-delay="0.4s">
                         <div class="price_table_text">
                             <h5>Básico</h5>
-                            <h1>$20.00</h1>
+                            <h1>$16.00</h1>
                             <p>Por mes</p>
                         </div>
                         <div class="table_text_details">
                             <p>Ideal para pequeños negocios donde el flujo de clientes no es excesivo, como cafeterías o pequeñas tiendas</p>
                         </div>
                         <div class="table_btn mt-50">
-                            <a href="register?type=1" class="btn dream-btn">Adquirirlo</a>
+                            <a href="contacto?type=1" class="btn dream-btn">Solicitarlo</a>
                         </div>
                     </div>
                 </div>
@@ -32,14 +32,14 @@
                     <div class="single_price_table_content active text-center wow fadeIn" data-wow-delay="0.6s">
                         <div class="price_table_text">
                             <h5>Profesional</h5>
-                            <h1>$25.00</h1>
+                            <h1>$24.00</h1>
                             <p>Por mes</p>
                         </div>
                         <div class="table_text_details">
                             <p>Indicado para negocios que manejas gran cantidad de datos y clientes, donde la atención rápida y oportuna son importantes</p>
                         </div>
                         <div class="table_btn mt-50">
-                            <a href="register?type=2" class="btn dream-btn">Adquirirlo</a>
+                            <a href="contacto?type=2" class="btn dream-btn">Solicitarlo</a>
                         </div>
                     </div>
                 </div>
@@ -48,14 +48,14 @@
                     <div class="single_price_table_content text-center wow fadeInUp" data-wow-delay="0.4s">
                         <div class="price_table_text">
                             <h5>Premium</h5>
-                            <h1>$35.00</h1>
+                            <h1>$45.00</h1>
                             <p>Por mes</p>
                         </div>
                         <div class="table_text_details">
                             <p>Diseñado para negocios grandes que manejan grandes cantidades de datos, y requiere que el sistema este interconectado en diferentes dispositivos</p>
                         </div>
                         <div class="table_btn mt-50">
-                            <a href="register?type=3" class="btn dream-btn">Adquirirlo</a>
+                            <a href="contacto?type=3" class="btn dream-btn">Solicitarlo</a>
                         </div>
                     </div>
                 </div>

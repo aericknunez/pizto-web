@@ -22,9 +22,9 @@
                                 <p>La implementación del sistema de nuestra parte no tarda más de 24 horas después de contratados, sin embargo hay que tomar en cuenta la capacitación de los usuarios, detalles técnicos a resolver, detalles de inventario y otras eventualidades que en total pudiera demorar hasta una semana para llegar a la perfección.</p>
                             </dd>
                             <!-- Single FAQ Area -->
-                            <dt class="wave wow fadeInUp" data-wow-delay="0.6s">¿Hasta cuantos productos puedo tener en mi negocio?</dt>
+                            <dt class="wave wow fadeInUp" data-wow-delay="0.6s">¿Dan soporte a su sistema despu&eacutes de adquirirlo?</dt>
                             <dd>
-                                <p>La cantidad de productos es ilimitado, no hay una cantidad límite y nunca la habrá, es importante mantener siempre sus inventarios al dia.</p>
+                                <p>Desde el momento que nos contrata estamos a su dispocisi&oacuten para brindarle el soporte y asesoria necesaria. Firmamos un contrato legal para reafirmar nuestro compromiso</p>
                             </dd>
                             <!-- Single FAQ Area -->
                             <dt class="wave wow fadeInUp" data-wow-delay="0.4s">¿Puedo tener impresoras de ticket en el sistema?</dt>

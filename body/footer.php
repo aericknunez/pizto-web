@@ -33,10 +33,11 @@
                                         <a href="#"><img src="img/pizto-sm-blue.png" alt="logo"> </a>
                                     </div>
                                     <p>Si desea contratar nuestros servicios, tiene una duda o simplemente quiere saber mas acerca de nosotros, no dude en escribirnos, es un placer conocer de usted.</p>
+                                    <p>Pizto es un software desarrollado por <a href="https://hibridosv.com">Hibrido</a>. Soluciones Tecnol&oacutegicas.</p>
                                 </div>
                                 <!-- Social Icon -->
                                 <div class="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
-                                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    <a href="http://fb.com/hibridosv"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
@@ -95,7 +96,7 @@
 
 
 
-        <!-- Load Facebook SDK for JavaScript -->
+  <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
@@ -116,8 +117,8 @@
 <!-- Your customer chat code -->
 <div class="fb-customerchat"
   attribution=setup_tool
-  page_id="2099524980342350"
+  page_id="206020093639450"
   theme_color="#20cef5"
-  logged_in_greeting="Hola! Necesitas ayuda?"
-  logged_out_greeting="Hola! Necesitas ayuda?">
+  logged_in_greeting="Hola! Como podemos ayudarte?"
+  logged_out_greeting="Hola! Como podemos ayudarte?">
 </div>

@@ -1,6 +1,10 @@
 <?php 
 session_start(); 
 
+
+if($_REQUEST["type"] == 1){ $type = "Busca un sistema basico"; }
+if($_REQUEST["type"] == 2){ $type = "Busca un sistema Profesional"; }
+if($_REQUEST["type"] == 3){ $type = "Busca un sistema premium"; }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -102,7 +106,7 @@ session_start();
 
           </div>
           <!-- Grid row -->
-          <input type="hidden" id="extra" name="extra" value="Enviado desde Pizto para informacion de sistema">
+          <input type="hidden" id="extra" name="extra" value="Enviado desde Pizto para informacion de sistema. <?php echo $type; ?>">
           <!-- Grid row -->
           <div class="row">
 
