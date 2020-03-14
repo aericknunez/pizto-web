@@ -1,5 +1,5 @@
 <?php 
-include_once '../demo/application/common/Alerts.php';
+include_once '../demo/pizto/application/common/Alerts.php';
 $alert = new Alerts();
 
 

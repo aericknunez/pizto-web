@@ -1,14 +1,14 @@
 <?php 
 // no olvidar cambiar la conexion a demo
-include_once '../demo/application/common/Alerts.php';
+include_once '../demo/pizto/application/common/Alerts.php';
 $alert = new Alerts();
-include_once '../demo/application/common/Helpers.php';
-include_once '../demo/application/includes/variables_db.php';
-include_once '../demo/application/common/Mysqli.php';
+include_once '../demo/pizto/application/common/Helpers.php';
+include_once '../demo/pizto/application/includes/variables_db.php';
+include_once '../demo/pizto/application/common/Mysqli.php';
 $db = new dbConn();
 
-include_once '../demo/application/common/Encrypt.php';
-include_once '../demo/application/common/Fechas.php';
+include_once '../demo/pizto/application/common/Encrypt.php';
+include_once '../demo/pizto/application/common/Fechas.php';
 
 include_once 'class.php';
 $clase = new Register();
