@@ -14,10 +14,10 @@ if(isset($_REQUEST["type"])){
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Demo -  Pizto.com</title>
 
-    <link rel="stylesheet" href="demo/assets/css/font-awesome.css">
-    <link href="demo/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="demo/assets/css/mdb.min.css" rel="stylesheet">
-    <link href="demo/assets/css/galeria.css" rel="stylesheet">
+    <link rel="stylesheet" href="demo/pizto/assets/css/font-awesome.css">
+    <link href="demo/pizto/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="demo/pizto/assets/css/mdb.min.css" rel="stylesheet">
+    <link href="demo/pizto/assets/css/galeria.css" rel="stylesheet">
 
     <style>/* Required for full background image */
 
@@ -231,13 +231,13 @@ body { overflow-x: hidden; padding-left: 5px; padding-right: 5px; }</style>
 </main>  
  -->
 
-    <script type="text/javascript" src="demo/assets/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/jquery-3.3.1.min.js"></script>
 
-    <script type="text/javascript" src="demo/assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/popper.min.js"></script>
 
-    <script type="text/javascript" src="demo/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/bootstrap.min.js"></script>
 
-    <script type="text/javascript" src="demo/assets/js/mdb.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/mdb.min.js"></script>
     <script>
         // SideNav Initialization
         $(".button-collapse").sideNav();

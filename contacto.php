@@ -14,10 +14,10 @@ if($_REQUEST["type"] == 3){ $type = "Busca un sistema premium"; }
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Siempre es un placer saber de usted</title>
 
-    <link rel="stylesheet" href="demo/assets/css/font-awesome.css">
-    <link href="demo/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="demo/assets/css/mdb.min.css" rel="stylesheet">
-    <link href="demo/assets/css/galeria.css" rel="stylesheet">
+    <link rel="stylesheet" href="demo/pizto/assets/css/font-awesome.css">
+    <link href="demo/pizto/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="demo/pizto/assets/css/mdb.min.css" rel="stylesheet">
+    <link href="demo/pizto/assets/css/galeria.css" rel="stylesheet">
 
     <style>body { overflow-x: hidden; padding-left: 15px; }</style>
 
@@ -204,13 +204,13 @@ El Salvador</p>
 </main>  
 
 
-    <script type="text/javascript" src="demo/assets/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/jquery-3.3.1.min.js"></script>
 
-    <script type="text/javascript" src="demo/assets/js/popper.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/popper.min.js"></script>
 
-    <script type="text/javascript" src="demo/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/bootstrap.min.js"></script>
 
-    <script type="text/javascript" src="demo/assets/js/mdb.min.js"></script>
+    <script type="text/javascript" src="demo/pizto/assets/js/mdb.min.js"></script>
     <script>
         // SideNav Initialization
         $(".button-collapse").sideNav();

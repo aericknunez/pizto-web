@@ -38,7 +38,7 @@
                                 <!-- Social Icon -->
                                 <div class="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
                                     <a href="http://fb.com/hibridosv"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                    <a href="#"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                    <a href="http://m.me/hibridosv"> <i class="fa fa-comment"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
